@@ -1,4 +1,4 @@
-# SentiAid-ML-ModelaCertainly! Here's the entire README content in markdown format:
+# SentiAid-ML-Model a Certainly!
 
 ```markdown
 # LipSync2Speech and Animation Conversion
